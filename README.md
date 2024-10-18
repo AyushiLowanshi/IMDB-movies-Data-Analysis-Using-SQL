@@ -1,5 +1,3 @@
-RSVP Movies Data Analysis
-Overview
 This project involves a comprehensive data analysis of the RSVP Movies dataset, conducted using SQL in MySQL. The analysis focuses on various aspects of movie production, audience preferences, and key industry figures, aiming to derive insights that can inform strategic decisions for film production companies and other stakeholders in the film industry.
 
 Project Segments
